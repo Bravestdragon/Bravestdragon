@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Bravestdragon
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Implementing Forex trading to AI
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently Studying Computer Science
+- 📫 How to reach me: bravestdragon67@gmail.com or mareiseolwane@gmail.com 
 
 <!---
 Bravestdragon/Bravestdragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
