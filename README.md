@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Bravestdragon
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently Studying Computer Science
-- 📫 How to reach me: bravestdragon67@gmail.com or mareiseolwane@gmail.com 
+Hello! I’m Marei Ignecious Seolwana, a dedicated computer science student at Zhejiang Normal University with a passion for developing dynamic, user-focused applications.
+My technical strengths lie in JavaFX, Java EE, JavaScript, and Node.js, which I use to bring ideas to life — from elegant desktop interfaces to full-stack web applications.
 
-<!---
-Bravestdragon/Bravestdragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe that great software blends creativity, logic, and empathy for the user. I’m always open to learning, collaborating, and contributing to projects that challenge me to grow as a developer.
+
+Let’s build something amazing together! ✨
